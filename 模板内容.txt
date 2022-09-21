@@ -1,0 +1,17 @@
+{{riqi.DATA}}{{beizhu.DATA}}
+
+天气：{{tianqi.DATA}}
+
+最低温度：{{min.DATA}}度 
+
+最高温度：{{max.DATA}}度 
+
+今天是我们相识的第{{tianshu.DATA}}天 
+
+我们已经成为好朋友{{pengyou.DATA}}天 
+
+距离你的生日还有{{shengri.DATA}}天
+
+{{tuweiqinghua.DATA}}
+
+
